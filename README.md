@@ -21,3 +21,9 @@ Make sure you have Python installed in your computer. We strongly recommend [ins
 ### Contributors
 
 This template was built as part of the [4Geeks Python Resources](https://4geeks.com/technology/python) for learning at [4Geeks.com](https://4geeks.com) by [Alejandro Sanchez](https://twitter.com/alesanchezr) and [many other contributors](https://github.com/4GeeksAcademy/python-hello/graphs/contributors).
+
+## Inventory system
+
+Install dependencies with `python -m pip install -e .`. Create a local `.env` with `GROQ_API_KEY` and optionally `GROQ_MODEL`.
+
+Start the API with `uvicorn api.app:app --reload`, then run the CLI agent in another terminal with `python agent.py`. The API must be running first. Inventory persists in `products.csv`; conversation events are appended to `conversation_log.csv`.

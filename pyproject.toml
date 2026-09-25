@@ -1,0 +1,11 @@
+[project]
+name = "inventario-natural"
+version = "0.1.0"
+description = "Sistema de control de stock con FastAPI y un agente Groq"
+requires-python = ">=3.10"
+dependencies = [
+    "fastapi",
+    "uvicorn",
+    "openai",
+    "python-dotenv",
+]

@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+.env.*
+!.env.example
+aprendiendo.md
+*.log
+.pytest_cache/
+inventario_natural.egg-info/

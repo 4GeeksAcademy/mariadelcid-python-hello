@@ -1,0 +1,32 @@
+id,name,quantity,unit
+1,Arroz largo,24,paquetes
+2,Lentejas,18,paquetes
+3,Macarrones,32,paquetes
+4,Harina de trigo,15,kg
+5,Azúcar,22,kg
+6,Sal fina,40,paquetes
+7,Aceite de oliva,12,botellas
+8,Aceite de girasol,7,botellas
+9,Leche entera,16,litros
+10,Leche desnatada,4,litros
+11,Agua mineral,36,botellas
+12,Zumo de naranja,9,botellas
+13,Refresco de cola,14,botellas
+14,Café molido,8,paquetes
+15,Té negro,11,cajas
+16,Galletas María,6,paquetes
+17,Cereales de desayuno,13,cajas
+18,Pan de molde,3,unidades
+19,Tomate triturado,0,latas
+20,Atún en conserva,21,latas
+21,Maíz dulce,5,latas
+22,Judías verdes,10,latas
+23,Caldo de pollo,2,litros
+24,Patatas,28,kg
+25,Cebollas,8,kg
+26,Manzanas,16,kg
+27,Plátanos,1,kg
+28,Huevos,30,unidades
+29,Pollo fresco,0,kg
+30,Yogur natural,7,unidades
+31,flan de huevo,12,unidades
